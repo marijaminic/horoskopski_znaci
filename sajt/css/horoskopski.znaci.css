@@ -1,0 +1,131 @@
+*{background-color: #8D9EFF;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+h1{text-align: center;
+    font-size: 60px;
+
+}
+
+
+h2{text-align: left;
+    font-size: 40px;
+
+}
+
+.ovan{height: 170px;
+       width: 200px;
+
+}
+
+.bik{height: 200px;
+    width: 200px;
+
+}
+
+.blizanac{height: 200px;
+    width: 200px;
+
+}
+
+.rak{height: 180px;
+    width: 200px;
+
+}
+
+.lav{height: 180px;
+    width: 180px;
+
+}
+
+.devica{height: 200px;
+    width: 200px;
+
+}
+
+.vaga{height: 150px;
+    width: 180px;
+
+}
+
+.škorpija{height: 200px;
+    width: 200px;
+
+}
+
+.strelac{height: 150px;
+    width: 180px;
+
+}
+
+.jarac{height: 200px;
+    width: 350px;
+
+}
+
+.vodolija{height: 200px;
+    width: 370px;
+
+}
+
+.ribe{
+    height: 200px;
+    width: 260px;
+
+}
+
+.container{display: flex;
+           align-items: space-between;
+           justify-content: space-between;
+           gap: 20px;
+}
+
+.ovan{margin-top: 25px;
+
+}
+
+.bik{margin-top: 40px;
+
+}
+
+.blizanac{margin-top: 30px;
+
+}
+
+.rak{margin-top: 30px;
+
+}
+
+.lav{margin-top: 20px;
+
+}
+
+.devica{margin-top: 20px;
+
+}
+
+.vaga{margin-top: 40px;
+
+}
+
+.škorpija{margin-top: 30px;
+
+}
+
+.strelac{margin-top: 40px;
+
+}
+
+.jarac{margin-top: 50px;
+
+}
+
+.vodolija{margin-top: 45px;
+
+}
+
+.ribe{margin-top: 40px;
+
+}
+

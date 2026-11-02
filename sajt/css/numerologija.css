@@ -1,0 +1,79 @@
+*{background-color: #FFF56D;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{text-align: center;
+    font-size: 60px;
+
+}
+
+
+h2{text-align: left;
+    font-size: 40px;
+
+}
+
+.jedan{height: 200px ;
+    width: 200px;
+
+}
+
+.dva{height: 200px ;
+    width: 200px;
+
+}
+
+.tri{height: 200px ;
+    width: 200px;
+
+}
+
+.cetiri{height: 200px ;
+    width: 200px;
+
+}
+
+.pet{height: 200px ;
+    width: 200px;
+
+}
+
+.sest{height: 200px ;
+    width: 200px;
+
+}
+
+.sedam{height: 200px ;
+    width: 200px;
+
+}
+
+.osam{height: 200px ;
+    width: 200px;
+
+}
+
+.devet{height: 200px ;
+    width: 200px;
+
+}
+
+.jedanaest{height: 200px ;
+    width: 200px;
+
+}
+
+.dvadesetdvojka{height: 200px ;
+    width: 200px;
+
+}
+
+.container{display: flex;
+    align-items: space-between;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.image{margin-top: 20px;
+
+}
